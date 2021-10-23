@@ -1,5 +1,5 @@
 # LoRa_CTC_CPTM
-Códigos criados para execução do projeto de monitoração dos CTCs
+Códigos criados para execução do projeto de monitoramento dos CTCs
 
 Esse projeto tem como objetivo diminuir o impacto que as falhas de um sistema vital de
 alimentação do sistema de sinalização tem
