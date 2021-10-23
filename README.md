@@ -3,7 +3,7 @@ Códigos criados para execução do projeto de monitoramento dos CTCs
 
 Esse projeto tem como objetivo diminuir o impacto que as falhas de um sistema vital de
 alimentação do sistema de sinalização tem
-na operação dos trens da CPTM e por consequência os usuários.
+na operação dos trens da CPTM e por consequência nos usuários.
 
 Ele consiste em fazer o monitoramento da linha de alimentação principal denominada CTC 1 e
 sua redundância chamada CTC 2.
